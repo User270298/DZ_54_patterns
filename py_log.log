@@ -1,0 +1,9 @@
+2024-02-23 15:53:22,895 INFO An INFO
+2024-02-23 15:53:22,895 WARNING A WARNING
+2024-02-23 15:53:22,895 ERROR An ERROR
+2024-02-23 15:53:22,895 CRITICAL A message of CRITICAL severity
+2024-02-23 15:53:26,945 INFO John add {'name': 'ewew', 'author': 'ewqe', 'genre': 'wqewq', 'year': 'weqqw'}
+2024-02-23 15:53:44,168 INFO John delete ewew
+2024-02-23 15:54:10,328 INFO Mark search to the name  qwq
+2024-02-23 15:54:21,011 INFO John add {'name': 'qwe', 'author': 'qwe', 'genre': 'qwe', 'year': 'qwe'}
+2024-02-23 15:55:23,924 INFO Mark search to the name  qwe
